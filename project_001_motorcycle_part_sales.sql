@@ -1,4 +1,5 @@
 -- Motorcycle part sales
+-- Find out how much Wholesale net revenue each product_line generated per month per warehouse.
 
 SELECT 
 	product_line AS product_line
