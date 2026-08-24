@@ -1,4 +1,4 @@
--- Analysing motorcycle part sales
+-- Motorcycle part sales
 
 SELECT 
 	product_line AS product_line
